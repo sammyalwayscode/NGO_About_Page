@@ -1,0 +1,14 @@
+.TheAbout2GeneralDiv{
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-family: poppins;
+  margin-bottom: 50px;
+}
+
+.TheAbout2SubGeneralDiv{
+  width: 754px;
+  text-align: center;
+}
